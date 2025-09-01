@@ -1,0 +1,10 @@
+{
+  "name": "DT Token",
+  "symbol": "DT",
+  "decimals": 18,
+  "description": "DT Token is an online invitation token on Solana/BSC.",
+  "website": "https://yoursite.com",
+  "explorer": "https://bscscan.com/token/0x8be117bfe85bbfb9cbfc89ebb746ff0ea794b046",
+  "status": "active",
+  "id": "0x8be117bfe85bbfb9cbfc89ebb746ff0ea794b046"
+}
